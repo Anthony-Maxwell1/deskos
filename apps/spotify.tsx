@@ -8,8 +8,9 @@ export const manifest = {
   widgets: [
     {
       id: "player",
-      component: Player,
-      sizes: ["1x1", "2x1", "3x1", "2x3", "1x3"] // If this isn't here, it's automatically
+      name: "Player",
+      defaultProps: {},
+      component: Player
     }
   ]
 };

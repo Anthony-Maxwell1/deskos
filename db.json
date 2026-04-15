@@ -1,0 +1,11 @@
+{
+  "configs": {
+    "test-1394edc4": {
+      "name": "Test",
+      "gridSize": [
+        4,
+        3
+      ]
+    }
+  }
+}
